@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "283659144318",
+    "firebase_url": "https://btcupdate-idea.firebaseio.com",
+    "project_id": "btcupdate-idea",
+    "storage_bucket": "btcupdate-idea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283659144318:android:03b96283efb395d1",
+        "android_client_info": {
+          "package_name": "btc.update.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283659144318-8f5m28a2h8jl71cvqpofv99v3a3q8dkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1KMdYd_SvUUcHYfyGW2UHr5oaizgamX0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
